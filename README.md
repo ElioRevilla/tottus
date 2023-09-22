@@ -1,2 +1,2 @@
 # tottus
-Llegué hasta la parte final del paso 3
+Llegué hasta casi la parte final del paso 3
